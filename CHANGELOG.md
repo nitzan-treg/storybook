@@ -1,3 +1,7 @@
+## 10.3.6
+
+- Fix: Add vite-plus vendored libraries version detection - [#34509](https://github.com/storybookjs/storybook/pull/34509), thanks @huang-julien!
+
 ## 10.3.5
 
 - Core: Disable component manifest by default - [#34408](https://github.com/storybookjs/storybook/pull/34408), thanks @yannbf!
